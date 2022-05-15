@@ -1,3 +1,3 @@
-# Lab-7-Code
+# Lab-7
 This is my code for Lab 7! 
 My goal with this lab was to become comfortable with integrating leaflet and R shiny. In my final project, I will be creating an interactive map that shows what the predominant non English language in each Chicago neighborhood is. The pop-up will be a little blurb describing the history of particular neigborhoods of interest around the city. R Shiny + Leaflet are the perfect tools for my final project. I used Su Burtner's code as the basis for this project, but I modified the locations and some of the text. I would love feedback on the pop-up portion - for some reason, I can't get the pop up to show my descriptions! 
